@@ -1,7 +1,5 @@
 # PLP_Assignment_7_AI_ethics
-Sure! Here's how to answer these questions clearly and concisely:
 
----
 
 ### **1. Short Answer Questions**
 
