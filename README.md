@@ -25,11 +25,8 @@ GDPR requires AI systems to respect user privacy, gain clear consent for data us
 
  **2. Ethical Principles Matching**
 
- | **Definition**                                               | **Matching Principle** |
-| ------------------------------------------------------------ | ---------------------- |
-| Ensuring AI does not harm individuals or society.            | **B) Non-maleficence** |
-| Respecting users’ right to control their data and decisions. | **C) Autonomy**        |
-| Designing AI to be environmentally friendly.                 | **D) Sustainability**  |
-ility**  
-
+* **A) Justice** → Fair distribution of AI benefits and risks.
+* **B) Non-maleficence** → Ensuring AI does not harm individuals or society.
+* **C) Autonomy** → Respecting users’ right to control their data and decisions.
+* **D) Sustainability** → Designing AI to be environmentally friendly.
 
